@@ -52,4 +52,4 @@ image_files = [
 ]
 
 # Call to the function
-create_image_grid_2(image_files, grid_cols_rows=(3, 3), image_size=(80, 80), font_size=20, output_path="grid_result.png")
+createImageGridNumbered(image_files, grid_cols_rows=(3, 3), image_size=(80, 80), font_size=20, output_path="grid_result.png")
